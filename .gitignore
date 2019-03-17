@@ -1,0 +1,7 @@
+# Binary Executables
+
+*.exe
+
+# windows batch files
+
+*.bat
